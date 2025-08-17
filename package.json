@@ -1,0 +1,24 @@
+{
+  "name": "virtual-reality-fitness-platform-94313771",
+  "version": "1.0.0",
+  "description": "VR-powered fitness experiences with AI personal training\n\n**AI Learning Insights Applied:**\n• Invest in high-quality VR equipment and software to provide a seamless and immersive experience.\n• Offer a variety of fitness programs to cater to different fitness levels and interests.\n• Use AI to provide personalized training and feedback to users, which can improve their fitness outcomes and satisfaction with the platform.\n\n**Warning Signals to Monitor:**\n⚠️ Low user engagement: If users are not regularly using the platform, it may indicate that the product is not meeting their needs or expectations.\n⚠️ High churn rate: If users are leaving the platform at a high rate, it could indicate dissatisfaction with the product or service.\n⚠️ Negative customer feedback: Complaints or negative reviews about the product, service, or customer support can be a warning sign of deeper issues.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@stripe/stripe-js": "^2.0.0",
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
